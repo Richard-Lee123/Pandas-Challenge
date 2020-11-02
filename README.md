@@ -85,8 +85,8 @@ The last things I looked for was who the top spenders were and what was the most
 |Lisosia93|	5|	$3.79|	$18.96|
 |Idastidru52|	4|	$3.86|	$15.45|
 |Chamjask73|	3|	$4.61|	$13.83|
-Iral74	4	$3.40	$13.62
-Iskadarya95	3	$4.37	$13.10
+|Iral74|	4|	$3.40|	$13.62|
+Iskadarya95|	3|	$4.37|	$13.10|
 
 #### Popular Items
 	
@@ -94,10 +94,15 @@ Iskadarya95	3	$4.37	$13.10
 |---|---|---|---|---|
 |92|	Final CriticFinal CriticFinal CriticFinal Crit...|	13|	$4.61| $59.99|
 |178|	Oathbreaker, Last Hope of the Breaking StormOa...|	12|	$4.23|	$50.76|
-|82|	NirvanaNirvanaNirvanaNirvanaNirvanaNirvanaNirv...| 9|	$4.90|	$44.10|
+|82|	NirvanaNirvanaNirvanaNirvanaNirvanaNirvanaNirv...|      9|	$4.90|	$44.10|
 |145|	Fiery Glass CrusaderFiery Glass CrusaderFiery ...|	9|	$4.58|	$41.22|
-|103|	Singed ScalpelSinged ScalpelSinged ScalpelSing...|	8|	$4.35|	$34.80|.
+|103|	Singed ScalpelSinged ScalpelSinged ScalpelSing...|	8|	$4.35|	$34.80|
 
 ---
 ---
 
+### Findings
+
+After analyzing all of this data I can come to three conclusions just by observing these tables.
+Firstly I can conclude that majority of the playerbase is Male, and that is where majority of the purchases are coming from. With almost 85% of players being male and almost $2,000.00 coming from this gender group.
+Secondly I would say that if we graphed the age demographics we would be able to see a bell curve, where majority of the player base are teenagers to 30 year old players. Any further than that on either sides of the age range and we will see a more dramatic decline in players base.
