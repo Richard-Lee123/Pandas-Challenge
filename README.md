@@ -78,6 +78,7 @@ After looking at Gender I took a look at the Age Demographics, which can be seen
 ---
 
 The last things I looked for was who the top spenders were and what was the most popular and profitable items.
+(These data-sets are going to be snapshots of just the top 5 for each being sorted on "Total Purchase Value")
 
 #### Top Spenders
 |Screen Names|	Purchase Count|	Average Purchase Price|	Total Purchase Value|
@@ -106,3 +107,4 @@ Iskadarya95|	3|	$4.37|	$13.10|
 After analyzing all of this data I can come to three conclusions just by observing these tables.
 Firstly I can conclude that majority of the playerbase is Male, and that is where majority of the purchases are coming from. With almost 85% of players being male and almost $2,000.00 coming from this gender group.
 Secondly I would say that if we graphed the age demographics we would be able to see a bell curve, where majority of the player base are teenagers to 30 year old players. Any further than that on either sides of the age range and we will see a more dramatic decline in players base.
+The Third and last observation is that the average spending is around $3.00 to $5.00 for the top spenders, which is roughly the same as the top 5 most popular items in the game to buy. From this it looks like the top spenders are willing to spend $5.00 on in game purchases on average. 
